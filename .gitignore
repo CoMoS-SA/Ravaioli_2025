@@ -1,0 +1,72 @@
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# custom files
+output/*
+build/*
+debug/*
+debug2/*
+output_plots/*
+input_files/*
+CMakeCache.txt
+dsk_sfc_inputs_valid.json
+cmake_install.cmake
+CMakeFiles/*
+CMakeFiles
+build/*
+desktop
+errors/*
+
+# VSCode
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+!.vscode/c_cpp_properties.json
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+# R files
+.RData
+.RDataTmp*
+.Rhistory
+.Rproj.user
+*.Rproj
