@@ -1,4 +1,4 @@
-Repository for the version of the DSK (Dystopian Schumpeter meeting Keynes) model described and used in Ravaioli, G., Lamperti, F., Roventini, A. and Domingos, T., 2025. Tackling Emissions and Inequality: Policy Insights from an Agent-Based Model. Available at SSRN: https://ssrn.com/abstract=5223096 or http://dx.doi.org/10.2139/ssrn.5223096
+Repository for the version of the DSK (Dystopian Schumpeter meeting Keynes) model described and used in Ravaioli, G., Lamperti, F., Roventini, A. and Domingos, T. (2025). Tackling Emissions and Inequality: Policy Insights from an Agent-Based Model. Journal of Economic Behavior & Organization. Available at https://www.sciencedirect.com/science/article/pii/S0167268125003075
 
 # Licence
 Copyright (C) 2025 Giacomo Ravaioli, Francesco Lamperti, Andrea Roventini, Tiago Domingos
